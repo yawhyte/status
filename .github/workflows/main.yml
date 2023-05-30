@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Check Status
         run: |
-            # rm -fr *
+            rm -fr *
             wget https://download.dnscrypt.info/dnscrypt-resolvers/json/public-resolvers.json
             cat public-resolvers.json | grep -B 18 -A 2 '"proto": "DNSCrypt"' | grep -B 6 -A 14 '"dnssec": true,' | grep -B 14 -A 6 '"nolog": true,' | grep -B 7 -A 13 '"ipv6": false,' | grep '"name":' | grep -v 'family' | grep -v 'cleanbrowsing' | grep -v 'adguard' | grep -v 'sfw' | grep -v 'nogoogle' | sed 's/"//g' | sed 's/,//g' | awk '{print $NF}' >> NoFilter.txt
             cat public-resolvers.json | grep -B 18 -A 2 '"proto": "DNSCrypt"' | grep -B 6 -A 14 '"dnssec": true,' | grep -B 13 -A 7 '"nofilter": false,' | grep -B 14 -A 6 '"nolog": true,' | grep -B 7 -A 13 '"ipv6": false,' | grep '"name":' | grep -v 'family' | grep -v 'cleanbrowsing' | grep -v 'adguard' | grep -v 'sfw' | grep -v 'nogoogle' | sed 's/"//g' | sed 's/,//g' | awk '{print $NF}' >> Filter.txt
