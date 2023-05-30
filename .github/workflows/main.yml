@@ -9,23 +9,10 @@ jobs:
     name: check
     runs-on: ubuntu-latest
     steps:
-      # - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       - name: Check Status
         run: |
             rm -fr *.txt
-            wget https://download.dnscrypt.info/dnscrypt-resolvers/json/public-resolvers.json
-            cat public-resolvers.json | grep -B 18 -A 2 '"proto": "DNSCrypt"' | grep -B 6 -A 14 '"dnssec": true,' | grep -B 14 -A 6 '"nolog": true,' | grep -B 7 -A 13 '"ipv6": false,' | grep '"name":' | grep -v 'family' | grep -v 'cleanbrowsing' | grep -v 'adguard' | grep -v 'sfw' | grep -v 'nogoogle' | sed 's/"//g' | sed 's/,//g' | awk '{print $NF}' >> NoFilter.txt
-            cat public-resolvers.json | grep -B 18 -A 2 '"proto": "DNSCrypt"' | grep -B 6 -A 14 '"dnssec": true,' | grep -B 13 -A 7 '"nofilter": false,' | grep -B 14 -A 6 '"nolog": true,' | grep -B 7 -A 13 '"ipv6": false,' | grep '"name":' | grep -v 'family' | grep -v 'cleanbrowsing' | grep -v 'adguard' | grep -v 'sfw' | grep -v 'nogoogle' | sed 's/"//g' | sed 's/,//g' | awk '{print $NF}' >> Filter.txt
-            wget https://download.dnscrypt.info/status/public-resolvers.txt
-            cat NoFilter.txt | while read line
-            do
-            grep $line public-resolvers.txt | sed '/ipv6/d' | sed '/doh/d' | sed '/v6/d' >> NoFilterPass.txt
-            done
-            cat Filter.txt | while read line
-            do
-            grep $line public-resolvers.txt | sed '/ipv6/d' >> FilterPass.txt
-            done          
-            rm -rf public-resolvers.json public-resolvers.txt
             git config user.name github-actions
             git config user.email github-actions@github.com
             git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
