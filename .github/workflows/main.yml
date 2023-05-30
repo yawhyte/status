@@ -9,9 +9,10 @@ jobs:
     name: check
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - name: Check Status
         run: |
-            rm -fr *
+            rm -fr *.txt
             wget https://download.dnscrypt.info/dnscrypt-resolvers/json/public-resolvers.json
             cat public-resolvers.json | grep -B 18 -A 2 '"proto": "DNSCrypt"' | grep -B 6 -A 14 '"dnssec": true,' | grep -B 14 -A 6 '"nolog": true,' | grep -B 7 -A 13 '"ipv6": false,' | grep '"name":' | grep -v 'family' | grep -v 'cleanbrowsing' | grep -v 'adguard' | grep -v 'sfw' | grep -v 'nogoogle' | sed 's/"//g' | sed 's/,//g' | awk '{print $NF}' >> NoFilter.txt
             cat public-resolvers.json | grep -B 18 -A 2 '"proto": "DNSCrypt"' | grep -B 6 -A 14 '"dnssec": true,' | grep -B 13 -A 7 '"nofilter": false,' | grep -B 14 -A 6 '"nolog": true,' | grep -B 7 -A 13 '"ipv6": false,' | grep '"name":' | grep -v 'family' | grep -v 'cleanbrowsing' | grep -v 'adguard' | grep -v 'sfw' | grep -v 'nogoogle' | sed 's/"//g' | sed 's/,//g' | awk '{print $NF}' >> Filter.txt
@@ -25,13 +26,10 @@ jobs:
             grep $line public-resolvers.txt | sed '/ipv6/d' >> FilterPass.txt
             done          
             rm -rf public-resolvers.json public-resolvers.txt
-            mkdir -p .github/workflows
-            wget -qO .github/workflows/main.yml https://github.com/${{ github.repository }}/raw/main/.github/workflows/main.yml &> /dev/null
-            git config --global init.defaultBranch main
-            git init
-            git add .
+            
             git config user.name "yawhyte"
             git config user.email "135020211+yawhyte@users.noreply.github.com"
-            git commit -m "check status"
-            git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+            git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+            git add .
+            git commit --allow-empty -m "$(git log -1 --pretty=%s)"
             git push origin main --force
