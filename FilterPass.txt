@@ -1,8 +1,8 @@
 pass: dnscrypt-de-blahdns-ipv4
-pass: dnscrypt.pl-guardian
+pass: dnscrypt-ch-blahdns-ipv4
+pass: dns.b33.network-dnscrypt
+pass: userspace-australia
+pass: userspace-australia
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
-pass: dnscrypt-ch-blahdns-ipv4
-pass: userspace-australia
-pass: userspace-australia
-pass: dns.b33.network-dnscrypt
+pass: dnscrypt.pl-guardian
