@@ -1,5 +1,5 @@
-pass: dnscrypt-de-blahdns-ipv4
 pass: dnscrypt.pl-guardian
+pass: dnscrypt-de-blahdns-ipv4
 pass: userspace-australia
 pass: userspace-australia
 pass: doh.tiar.app
