@@ -1,7 +1,7 @@
+pass: dns.b33.network-dnscrypt
 pass: userspace-australia
 pass: userspace-australia
 pass: dnscrypt.pl-guardian
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
-pass: dns.b33.network-dnscrypt
 pass: dnscrypt-de-blahdns-ipv4
