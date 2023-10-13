@@ -1,13 +1,13 @@
-pass: dnscrypt-de-blahdns-ipv4
+pass: dnscrypt.pl-guardian
+pass: bebasdns-security
 pass: bebasdns
 pass: bebasdns-dnscrypt
 pass: bebasdns-family
 pass: bebasdns-security
 pass: bebasdns-unfiltered
-pass: dns.b33.network-dnscrypt
-pass: bebasdns-security
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
-pass: dnscrypt.pl-guardian
 pass: userspace-australia
 pass: userspace-australia
+pass: dnscrypt-de-blahdns-ipv4
+pass: dns.b33.network-dnscrypt
