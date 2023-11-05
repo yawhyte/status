@@ -1,3 +1,4 @@
+pass: dns.b33.network-dnscrypt
 pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-security
@@ -8,4 +9,3 @@ pass: bebasdns-security
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: dnscrypt.pl-guardian
-pass: dns.b33.network-dnscrypt
