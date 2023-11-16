@@ -1,9 +1,9 @@
-doh.tiar.app
-bebasdns-security
-dnscrypt-de-blahdns-ipv4
-dnscrypt.pl-guardian
-bebasdns
-quad9-dnscrypt-ip4-filter-ecs-pri
-quad9-dnscrypt-ip4-filter-pri
-userspace-australia
 dns.b33.network-dnscrypt
+userspace-australia
+quad9-dnscrypt-ip4-filter-pri
+bebasdns
+bebasdns-security
+dnscrypt.pl-guardian
+quad9-dnscrypt-ip4-filter-ecs-pri
+dnscrypt-de-blahdns-ipv4
+doh.tiar.app
