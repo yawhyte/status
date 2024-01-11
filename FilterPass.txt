@@ -1,6 +1,6 @@
-pass: userspace-australia
-pass: userspace-australia
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
-pass: dnscrypt.pl-guardian
+pass: userspace-australia
+pass: userspace-australia
 pass: dns.b33.network-dnscrypt
+pass: dnscrypt.pl-guardian
