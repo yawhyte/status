@@ -5,7 +5,7 @@ pass: bebasdns
 pass: bebasdns-family
 pass: bebasdns-security
 pass: bebasdns-unfiltered-doh
+pass: userspace-australia
+pass: userspace-australia
 pass: dnscrypt.pl-guardian
-pass: userspace-australia
-pass: userspace-australia
 pass: bebasdns-security
