@@ -3,7 +3,6 @@ pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
 pass: userspace-australia
 pass: userspace-australia
-pass: dns.b33.network-dnscrypt
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: dnscrypt.pl-guardian
