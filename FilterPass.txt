@@ -1,4 +1,3 @@
-pass: dnscrypt.pl-guardian
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
 pass: bebasdns
@@ -6,3 +5,4 @@ pass: bebasdns-family
 pass: bebasdns-unfiltered-doh
 pass: userspace-australia
 pass: userspace-australia
+pass: dnscrypt.pl-guardian
