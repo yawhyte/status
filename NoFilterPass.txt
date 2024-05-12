@@ -54,6 +54,7 @@ pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-toronto-ipv4
+pass: fluffycat-fr-02
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-santaclara-ipv4
 pass: saldns02-conoha-ipv4
