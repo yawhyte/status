@@ -1,5 +1,5 @@
-pass: blahdns-de-dnscrypt-v4
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
+pass: blahdns-de-dnscrypt-v4
 pass: dnscrypt.pl-guardian
 pass: blahdns-sg-dnscrypt-v4
