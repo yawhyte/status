@@ -1,6 +1,6 @@
-dnscrypt.pl-guardian
-blahdns-sg-dnscrypt-v4
 quad9-dnscrypt-ip4-filter-ecs-pri
-blahdns-de-dnscrypt-v4
 quad9-dnscrypt-ip4-filter-pri
+blahdns-sg-dnscrypt-v4
 doh.tiar.app
+dnscrypt.pl-guardian
+blahdns-de-dnscrypt-v4
