@@ -35,6 +35,7 @@ pass: plan9dns-mx
 pass: dnscry.pt-sydney-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-chisinau-ipv4
+pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-kyiv-ipv4
 pass: dnscry.pt-toronto-ipv4
 pass: v.dnscrypt.uk-ipv4
