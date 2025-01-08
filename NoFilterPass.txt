@@ -23,7 +23,6 @@ pass: scaleway-ams
 pass: dnscrypt.ca-ipv4
 pass: scaleway-fr
 pass: sfw.scaleway-fr
-pass: dnscry.pt-philadelphia-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-libertylake-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
@@ -44,7 +43,6 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-taipeh-ipv4
 pass: dnscrypt.pl-guardian
-pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-mumbai-ipv4
 pass: saldns03-conoha-ipv4
