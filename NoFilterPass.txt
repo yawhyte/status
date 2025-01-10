@@ -18,6 +18,7 @@ pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-warsaw02-ipv4
 pass: dnscry.pt-tampa-ipv4
+pass: dnscry.pt-jakarta-ipv4
 pass: scaleway-ams
 pass: dnscrypt.ca-ipv4
 pass: scaleway-fr
