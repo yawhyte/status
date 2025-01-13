@@ -44,13 +44,13 @@ pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-taipeh-ipv4
 pass: dnscrypt.pl-guardian
+pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-mumbai-ipv4
 pass: saldns03-conoha-ipv4
 pass: dnscrypt.uk-ipv4
 pass: v.dnscrypt.uk-ipv4
 pass: dnscry.pt-frankfurt-ipv4
-pass: dnscry.pt-eygelshoven-ipv4
 pass: pryv8boi
 pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-singapore-ipv4
@@ -105,6 +105,5 @@ pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
 pass: dct-de
-pass: dnscry.pt-adelaide-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-nuremberg-ipv4
