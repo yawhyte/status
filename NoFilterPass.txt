@@ -143,7 +143,6 @@ pass: deffer-dns.au
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-munich-ipv4
 pass: digitalprivacy.diy-dnscrypt-ipv4
-pass: dnscry.pt-ashburn-ipv4
 pass: blahdns-sg-dnscrypt-v4
 pass: saldns02-conoha-ipv4
 pass: dnscry.pt-luxembourg-ipv4
