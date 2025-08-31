@@ -106,6 +106,7 @@ pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-yerevan-ipv4
 pass: dnscry.pt-fremont-ipv4
 pass: dnscry.pt-tallinn-ipv4
+pass: v.dnscrypt.uk-ipv4
 pass: cs-finland
 pass: dnscry.pt-flint-ipv4
 pass: ibksturm
@@ -148,6 +149,7 @@ pass: cs-london
 pass: dnscry.pt-spokane-ipv4
 pass: cs-fl
 pass: dnscrypt.uk-ipv4
+pass: v.dnscrypt.uk-ipv4
 pass: cs-ga
 pass: blahdns-sg-dnscrypt-v4
 pass: dnscry.pt-chicago-ipv4
