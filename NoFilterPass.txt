@@ -40,6 +40,7 @@ pass: dnscry.pt-hochiminhcity-ipv4
 pass: dnscry.pt-marseille-ipv4
 pass: cs-sydney
 pass: dnscry.pt-guayaquil-ipv4
+pass: dnscry.pt-tuusula-ipv4
 pass: cs-nl
 pass: cs-barcelona
 pass: dnscry.pt-halifax-ipv4
@@ -87,7 +88,9 @@ pass: cs-sk
 pass: dnscry.pt-saopaulo-ipv4
 pass: cs-serbia
 pass: dnscry.pt-durham-ipv4
+pass: dnscry.pt-valdivia-ipv4
 pass: cs-swe
+pass: dnscry.pt-vilnius-ipv4
 pass: dnscry.pt-hudiksvall-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-london-ipv4
@@ -108,6 +111,7 @@ pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-moscow-ipv4
 pass: dnscry.pt-allentown-ipv4
 pass: dnscry.pt-detroit-ipv4
+pass: dnscry.pt-vancouver-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: cs-pt
 pass: dnscry.pt-kansascity-ipv4
@@ -121,6 +125,7 @@ pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-lasvegas-ipv4
+pass: dnscry.pt-tokyo02-ipv4
 pass: cs-tokyo
 pass: dnscry.pt-losangeles-ipv4
 pass: dnscry.pt-molln-ipv4
@@ -128,10 +133,13 @@ pass: cs-dus
 pass: dnscry.pt-ikeja-ipv4
 pass: cs-belgium
 pass: dnscry.pt-bucharest-ipv4
+pass: dnscry.pt-lima02-ipv4
 pass: cs-md
 pass: dnscry.pt-tirana-ipv4
+pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-ashburn-ipv4
+pass: dnscry.pt-vienna-ipv4
 pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-palermo-ipv4
@@ -163,3 +171,4 @@ pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-redditch-ipv4
 pass: dnscry.pt-flint-ipv4
+pass: dnscry.pt-toronto-ipv4
