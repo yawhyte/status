@@ -63,6 +63,7 @@ pass: cs-india
 pass: dnscry.pt-grandrapids-ipv4
 pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-taipeh-ipv4
+pass: dnscry.pt-tuusula-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-johannesburg02-ipv4
 pass: dnscry.pt-oradea-ipv4
