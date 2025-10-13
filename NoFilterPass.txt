@@ -28,10 +28,12 @@ pass: dnscry.pt-redditch-ipv4
 pass: cs-nl
 pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-allentown-ipv4
+pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-auckland-ipv4
 pass: cs-md
+pass: dnscry.pt-tirana-ipv4
 pass: cs-nyc
 pass: cs-czech
 pass: cs-dus
@@ -56,6 +58,7 @@ pass: dnscry.pt-spokane-ipv4
 pass: dnscry.pt-bogota-ipv4
 pass: dnscry.pt-molln-ipv4
 pass: dnscry.pt-chicago-ipv4
+pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-bengaluru-ipv4
 pass: dnscry.pt-dusseldorf02-ipv4
