@@ -9,7 +9,6 @@ pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-fujairah-ipv4
 pass: dnscry.pt-denver-ipv4
 pass: cs-india
-pass: dnscry.pt-hanoi-ipv4
 pass: dnscry.pt-copenhagen-ipv4
 pass: dnscry.pt-hochiminhcity-ipv4
 pass: cs-montreal
@@ -60,7 +59,6 @@ pass: dnscry.pt-hafnarfjordur-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-guayaquil-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
-pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-mumbai-ipv4
 pass: dnscry.pt-lima02-ipv4
 pass: digitalprivacy.diy-dnscrypt-ipv4
@@ -93,7 +91,6 @@ pass: dnscry.pt-dallas-ipv4
 pass: dnscry.pt-capetown-ipv4
 pass: dnscry.pt-halifax-ipv4
 pass: cs-dc
-pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-fremont02-ipv4
 pass: cs-fr
 pass: cs-pt
@@ -132,7 +129,6 @@ pass: dnscry.pt-atlanta-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-ikeja-ipv4
 pass: cs-serbia
-pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-dusseldorf02-ipv4
 pass: dnscry.pt-durham-ipv4
 pass: dnscry.pt-bengaluru-ipv4
