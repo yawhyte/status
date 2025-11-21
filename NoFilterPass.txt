@@ -80,6 +80,7 @@ pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-frankfurt-ipv4
 pass: dnscry.pt-sandefjord-ipv4
+pass: dnscry.pt-tallinn-ipv4
 pass: cs-vancouver
 pass: dnscry.pt-munich-ipv4
 pass: dnscry.pt-phoenix-ipv4
