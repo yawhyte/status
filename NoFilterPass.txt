@@ -15,7 +15,6 @@ pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-stockholm-ipv4
-pass: dnscry.pt-tbilisi-ipv4
 pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-bucharest-ipv4
 pass: cs-london
@@ -26,7 +25,6 @@ pass: dnscry.pt-capetown02-ipv4
 pass: dnscry.pt-dusseldorf-ipv4
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-grandrapids-ipv4
-pass: dnscry.pt-taos-ipv4
 pass: dnscry.pt-guayaquil-ipv4
 pass: cs-vancouver
 pass: dnscry.pt-naaldwijk-ipv4
