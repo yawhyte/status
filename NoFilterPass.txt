@@ -45,7 +45,6 @@ pass: dnscry.pt-hongkong-ipv4
 pass: dnscry.pt-capetown-ipv4
 pass: dnscry.pt-indianapolis-ipv4
 pass: dnscry.pt-fujairah-ipv4
-pass: dnscry.pt-sydney02-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-melbourne-ipv4
 pass: cs-hungary
@@ -67,7 +66,6 @@ pass: cs-berlin
 pass: dnscry.pt-halifax-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-flint-ipv4
-pass: dnscry.pt-taipeh-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-ottoville-ipv4
@@ -135,7 +133,6 @@ pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-lagos-ipv4
 pass: dnscry.pt-islamabad-ipv4
 pass: cs-nl
-pass: dnscry.pt-tallinn-ipv4
 pass: dnscry.pt-prague-ipv4
 pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-madrid-ipv4
