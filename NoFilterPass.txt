@@ -68,7 +68,6 @@ pass: dnscry.pt-manchester-ipv4
 pass: dnscry.pt-denver-ipv4
 pass: cs-austria
 pass: cs-austria6
-pass: dnscry.pt-barcelona-ipv4
 pass: cs-md
 pass: cs-md6
 pass: cs-montreal
