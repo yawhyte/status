@@ -141,7 +141,6 @@ pass: dnscry.pt-spokane-ipv4
 pass: dct-fr
 pass: dnscry.pt-saltlakecity-ipv4
 pass: dnscry.pt-helsinki-ipv4
-pass: dnscry.pt-seoul-ipv4
 pass: ffmuc.net
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-fujairah-ipv4
