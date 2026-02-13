@@ -1,3 +1,2 @@
 pass: doh.tiar.app
 pass: doh.tiar.app-doh
-pass: dnscrypt.pl-guardian
