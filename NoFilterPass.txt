@@ -123,7 +123,6 @@ pass: dnscry.pt-gdansk-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-stockholm02-ipv4
 pass: cs-vancouver
-pass: cs-vancouver6
 pass: cs-montreal
 pass: cs-montreal6
 pass: dnscry.pt-ashburn-ipv4
@@ -242,6 +241,7 @@ pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-ljubljana-ipv4
 pass: saldns01-conoha-ipv4
 pass: dnscry.pt-fremont02-ipv4
+pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-amsterdam02-ipv4
 pass: saldns03-conoha-ipv4
 pass: searx-se-ipv4
