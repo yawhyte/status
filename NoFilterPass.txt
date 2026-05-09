@@ -101,7 +101,6 @@ pass: dnscry.pt-lasvegas-ipv4
 pass: dnscry.pt-stockholm-ipv4
 pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-frankfurt02-ipv4
-pass: dnscry.pt-geneva-ipv4
 pass: dnscry.pt-kansascity-ipv4
 pass: dnscry.pt-prague-ipv4
 pass: cs-tx
@@ -149,7 +148,6 @@ pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-bremen-ipv4
 pass: dnscry.pt-ashburn-ipv4
 pass: dnscry.pt-hanoi-ipv4
-pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-barcelona-ipv4
 pass: dnscry.pt-tokyo02-ipv4
 pass: dnscry.pt-hongkong-ipv4
