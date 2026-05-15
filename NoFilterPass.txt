@@ -155,8 +155,6 @@ pass: cs-berlin
 pass: cs-berlin6
 pass: dnscry.pt-tbilisi-ipv4
 pass: jp.tiar.app
-pass: cs-vancouver
-pass: cs-vancouver6
 pass: dnscry.pt-tokyo-ipv4
 pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-amsterdam-ipv4
@@ -207,8 +205,7 @@ pass: dnscry.pt-stockholm02-ipv4
 pass: cs-serbia
 pass: cs-serbia6
 pass: dnscry.pt-lisbon-ipv4
-pass: cs-india
-pass: cs-india6
+pass: ibksturm
 pass: saldns01-conoha-ipv4
 pass: dnscry.pt-molln-ipv4
 pass: dnscry.pt-munich-ipv4
