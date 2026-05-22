@@ -1,2 +1,0 @@
-pass: doh.tiar.app
-pass: doh.tiar.app-doh
