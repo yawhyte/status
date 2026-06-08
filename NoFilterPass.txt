@@ -2,6 +2,7 @@ pass: dnscry.pt-phoenix-ipv4
 pass: dnscry.pt-dublin-ipv4
 pass: dnscry.pt-ottoville-ipv4
 pass: cs-sydney
+pass: cs-sydney6
 pass: dnscry.pt-riga-ipv4
 pass: dnscry.pt-losangeles02-ipv4
 pass: dnscry.pt-melbourne-ipv4
@@ -18,6 +19,7 @@ pass: dnscry.pt-milan-ipv4
 pass: dnscry.pt-jacksonville-ipv4
 pass: cs-ro
 pass: dnscry.pt-kansascity-ipv4
+pass: dnscry.pt-amsterdam03-ipv4
 pass: dnscry.pt-naaldwijk-ipv4
 pass: dorriere-fr
 pass: dnscry.pt-miami-ipv4
@@ -72,6 +74,7 @@ pass: dnscry.pt-vientiane-ipv4
 pass: serbica
 pass: dnscry.pt-adelaide-ipv4
 pass: nwps.fi
+pass: dnscry.pt-warsaw-ipv4
 pass: dnscry.pt-baku-ipv4
 pass: dnscry.pt-tuusula-ipv4
 pass: dct-de2
@@ -233,6 +236,5 @@ pass: dnscry.pt-bratislava-ipv4
 pass: dnscry.pt-singapore02-ipv4
 pass: dnscry.pt-helsinki-ipv4
 pass: dnscry.pt-manila-ipv4
-pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-johannesburg-ipv4
 pass: dnscry.pt-oradea-ipv4
