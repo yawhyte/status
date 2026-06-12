@@ -72,6 +72,7 @@ pass: dct-de2
 pass: dnscry.pt-baku-ipv4
 pass: dorriere-fr
 pass: dnscry.pt-hongkong02-ipv4
+pass: dnscry.pt-athens-ipv4
 pass: dnscry.pt-miami-ipv4
 pass: dnscry.pt-coventry-ipv4
 pass: dnscry.pt-helsinki-ipv4
