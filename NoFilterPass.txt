@@ -55,7 +55,6 @@ pass: deffer-dns.au
 pass: dnscry.pt-hongkong02-ipv4
 pass: dnscry.pt-telaviv-ipv4
 pass: dnscry.pt-baku-ipv4
-pass: dnscry.pt-spokane-ipv4
 pass: cs-berlin
 pass: cs-berlin6
 pass: dnscry.pt-seattle-ipv4
