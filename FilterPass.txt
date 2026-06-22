@@ -25,7 +25,6 @@ pass: dns4all-ipv4
 pass: dnscry.pt-queretaro-ipv4
 pass: mullvad-adblock-doh
 pass: dnscry.pt-halifax-ipv4
-pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-oradea-ipv4
 pass: switch

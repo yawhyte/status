@@ -120,7 +120,6 @@ pass: dnscry.pt-budapest-ipv4
 pass: dnscry.pt-luxembourg-ipv4
 pass: cs-manchester
 pass: cs-manchester6
-pass: dnscry.pt-saopaulo-ipv4
 pass: dnscry.pt-houston-ipv4
 pass: dnscry.pt-frankfurt-ipv4
 pass: uncensoreddns-dk-ipv4
@@ -197,6 +196,7 @@ pass: dnscry.pt-ikeja-ipv4
 pass: dnscry.pt-paris-ipv4
 pass: dnscry.pt-hongkong-ipv4
 pass: dnscrypt.ca-ipv4
+pass: dnscry.pt-manila-ipv4
 pass: cs-czech
 pass: cs-czech6
 pass: dnscry.pt-lisbon-ipv4
@@ -238,6 +238,7 @@ pass: cs-fr
 pass: cs-fr6
 pass: dnscry.pt-tirana-ipv4
 pass: scaleway-ams
+pass: dnscry.pt-ebenecity-ipv4
 pass: nwps.fi
 pass: dnscry.pt-dhaka-ipv4
 pass: nic.cz
