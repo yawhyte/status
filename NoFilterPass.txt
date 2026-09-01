@@ -117,6 +117,7 @@ pass: cs-sydney6
 pass: dnscry.pt-perth-ipv4
 pass: ibksturm
 pass: dnscry.pt-dublin-ipv4
+pass: dnscry.pt-islamabad-ipv4
 pass: dnscry.pt-montreal-ipv4
 pass: dnscry.pt-singapore-ipv4
 pass: dnscry.pt-tallinn-ipv4
@@ -184,7 +185,6 @@ pass: dnscry.pt-marseille-ipv4
 pass: cs-la
 pass: cs-la6
 pass: scaleway-ams
-pass: dnscry.pt-sanjose-ipv4
 pass: plan9dns-nj
 pass: dnscry.pt-newyork-ipv4
 pass: dnscry.pt-saltlakecity-ipv4
