@@ -149,6 +149,7 @@ pass: dnscry.pt-grandrapids-ipv4
 pass: cs-ga
 pass: cs-ga6
 pass: dnscry.pt-paris-ipv4
+pass: nbg-dnscrypt
 pass: dnscry.pt-nuremberg-ipv4
 pass: dnscry.pt-newyork-ipv4
 pass: cs-sea
