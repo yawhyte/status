@@ -139,7 +139,6 @@ pass: dnscry.pt-tallinn-ipv4
 pass: cs-nv
 pass: saldns01-conoha-ipv4
 pass: plan9dns-mx
-pass: dnscry.pt-allendale-ipv4
 pass: dnscry.pt-fremont02-ipv4
 pass: dnscry.pt-sandefjord-ipv4
 pass: cs-norway
