@@ -100,7 +100,6 @@ pass: dnscry.pt-brisbane-ipv4
 pass: dnscry.pt-london-ipv4
 pass: dnscry.pt-tampa-ipv4
 pass: dnscry.pt-paris-ipv4
-pass: dnscry.pt-istanbul-ipv4
 pass: dnscry.pt-thessaloniki-ipv4
 pass: dnscry.pt-fremont02-ipv4
 pass: cs-tx
@@ -158,7 +157,6 @@ pass: cs-vancouver
 pass: cs-vancouver6
 pass: cs-ga
 pass: cs-ga6
-pass: dnscry.pt-naaldwijk-ipv4
 pass: dnscry.pt-amsterdam-ipv4
 pass: dnscry.pt-chisinau-ipv4
 pass: dnscry.pt-phoenix-ipv4
