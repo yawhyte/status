@@ -18,7 +18,6 @@ pass: dnscry.pt-ebenecity02-ipv4
 pass: nwps.fi
 pass: dnscry.pt-ottoville-ipv4
 pass: dnscry.pt-madrid-ipv4
-pass: dnscry.pt-detroit-ipv4
 pass: dnscry.pt-kyiv02-ipv4
 pass: dnscry.pt-eygelshoven-ipv4
 pass: dnscry.pt-amsterdam-ipv4
